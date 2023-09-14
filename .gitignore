@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+# Visual Studio stuff
+/.vs
+/src/Release_x64
+/src/Release_x32
+/src/Release
+/src/Debug_x32
+/src/.vs/WinMTR
